@@ -1,23 +1,15 @@
 {
-  "parameters": {
-    "type": "object",
-    "properties": {
-      "status": "",
-      "customer_name": "",
-      "phone_number": "",
-      "product_description": "",
-      "pallets_marked": 0,
-      "staged": false,
-      "paid": false,
-      "delivery": "",
-      "address": "",
-      "address_verified": "",
-      "delivery_miles": 0,
-      "requested_date": "",
-      "delivery_notes": ""
-    },
-    "required": [
-      "delivery"
-    ]
-  }
+  "status": "",
+  "customerName": "",
+  "phoneNumber": "",
+  "productDescription": "",
+  "palletsMarked": 0,
+  "staged": false,
+  "paid": false,
+  "delivery": "",
+  "address": "",
+  "addressVerified": "",
+  "deliveryMiles": 0,
+  "requestedDate": "",
+  "deliveryNotes": ""
 }
