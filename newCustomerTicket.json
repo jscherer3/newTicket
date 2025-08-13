@@ -3,7 +3,7 @@
   "customerName": "",
   "phoneNumber": "",
   "productDescription": "",
-  "palletsMarked": 0,
+  "palletsMarked": false,
   "staged": false,
   "paid": false,
   "delivery": "",
@@ -12,5 +12,6 @@
   "deliveryMiles": 0,
   "requestedDate": "",
   "deliveryNotes": "",
-  "textOptIn": false
+  "textOptIn": false,
+  "orderId": ""
 }
