@@ -13,5 +13,6 @@
   "requestedDate": "",
   "deliveryNotes": "",
   "textOptIn": false,
-  "orderId": ""
+  "orderId": "",
+  "coordinates": ""
 }
